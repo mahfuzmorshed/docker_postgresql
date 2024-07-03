@@ -1,0 +1,7 @@
+D:\Docker\Published\secDockerApp.exe
+D:\Docker\Published\appsettings.Development.json
+D:\Docker\Published\appsettings.json
+D:\Docker\Published\secDockerApp.dll
+D:\Docker\Published\secDockerApp.deps.json
+D:\Docker\Published\secDockerApp.runtimeconfig.json
+D:\Docker\Published\secDockerApp.pdb

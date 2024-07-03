@@ -1,0 +1,40 @@
+﻿@page
+@model IndexModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to PostgreSQL project</h1>
+</div>
+
+<div class="row mb-auto">
+    <table>
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Enrollment Dt</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in Model._studentLst)
+            {
+                <tr>
+                    <td>@s.FirstMidName @s.LastName</td>
+                    <td>@s.EnrollmentDate</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <br />
+</div>
+<form method="post">
+    First name:
+    <input asp-for="_student!.FirstMidName" />
+    Last name:
+    <input asp-for="_student!.LastName" />
+    Enrollment Date:
+    <input asp-for="_student!.EnrollmentDate" />
+    <button type="submit">Submit</button>
+</form>
