@@ -13,11 +13,7 @@ This document provides an introduction to Razor Pages. It's not a step by step t
 
 ## Get started
 
-Follow the [Getting Started](https://learn.microsoft.com/aspnet/core/getting-started) instructions.
-
-Also check out the [.NET Homepage](https://www.microsoft.com/net) for released versions of .NET, getting started guides, and learning resources.
-
-See the [Triage Process](https://github.com/dotnet/aspnetcore/blob/main/docs/TriageProcess.md) document for more information on how we handle incoming issues.
+See [Get started with Razor Pages](https://learn.microsoft.com/en-us/aspnet/core/tutorials/razor-pages/razor-pages-start?view=aspnetcore-8.0) for detailed instructions on how to create a Razor Pages project.
 
 ## How to engage, contribute, and give feedback
 
