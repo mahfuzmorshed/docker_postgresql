@@ -9,7 +9,7 @@ Razor Pages can make coding page-focused scenarios easier and more productive th
 
 If you're looking for a tutorial that uses the Model-View-Controller approach, see Get started with ASP.NET Core MVC.
 
-This document provides an introduction to Razor Pages. It's not a step by step tutorial. If you find some of the sections too advanced, see Get started with Razor Pages. For an overview of ASP.NET Core, see the Introduction to ASP.NET Core.. [Learn more about ASP.NET Core](https://learn.microsoft.com/aspnet/core/).
+This document provides an introduction to Razor Pages. It's not a step by step tutorial. If you find some of the sections too advanced, see Get started with Razor Pages. For an overview of ASP.NET Core, see the Introduction to ASP.NET Core.. [Learn more about ASP.NET Core]([https://learn.microsoft.com/aspnet/core/](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/?view=aspnetcore-8.0&tabs=visual-studio)).
 
 ## Get started
 
